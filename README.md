@@ -19,7 +19,7 @@
 # Langkah Keempat
 #### Menyisipkan gambar ke dalam web
 `<img src="namafile.formatgambar" title="nama gambar">`
-File gambar harus didalam satu folder dengan file HTML
+#### File gambar harus didalam satu folder dengan file HTML
 ![Gambar 4](https://user-images.githubusercontent.com/73067481/158217391-6ac57e5b-4d22-4053-ac0d-5374d68240e5.png)
 ![Gambar 5](https://user-images.githubusercontent.com/73067481/158217411-84e57f08-98f8-4380-9dde-94c1b5e0306c.png)
 
